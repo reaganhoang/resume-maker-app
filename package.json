@@ -1,11 +1,6 @@
 {
-  "name": "resumake.io",
-  "version": "0.2.0",
-  "repository": "git@github.com:saadq/resumake.git",
-  "author": {
-    "name": "Saad Quadri",
-    "email": "saad@saadq.com",
-    "url": "http://saadq.com"
+  "name": "resume-maker",
+  "version": "1.0",
   },
   "scripts": {
     "build": "npm run build:client && npm run build:server",
